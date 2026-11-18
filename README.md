@@ -21,6 +21,6 @@ is documented, reproducible and verifiable.
 ## 📫 Connect with me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-abderrahmen--akkez-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abderrahmen-akkez)
-[![Gmail](https://img.shields.io/badge/Email-votre.email%40example.com-D14836?logo=gmail&logoColor=white)](mailto:votre.email@example.com)
+[![Gmail](https://img.shields.io/badge/Email-abderrahmen.akkez%40gmail.com-D14836?logo=gmail&logoColor=white)](mailto:abderrahmen.akkez@gmail.com)
 
 > ⚠️ All labs are isolated test environments. No production or confidential data is involved.
